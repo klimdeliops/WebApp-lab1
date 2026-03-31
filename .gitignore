@@ -1,0 +1,5 @@
+ve/
+app/ve/
+__pycache__/
+*.pyc
+.env
